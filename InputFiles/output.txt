@@ -1,0 +1,25 @@
+The sorted string is : 
+Act
+cat
+Computer science
+cuddle
+duck
+Hey there!
+I am Lord Voldemort
+Leonardo da Vinci! The Mona Lisa!
+O, Draconian devil! Oh, lame saint!
+Old Immortal dovers
+Software engineering
+tac
+Tom Marvolo Riddle
+UCD
+
+
+Anagram Group 1:  Act  cat  tac 
+Anagram Group 2:  I am Lord Voldemort  Tom Marvolo Riddle 
+Anagram Group 3:  Leonardo da Vinci! The Mona Lisa!  O, Draconian devil! Oh, lame saint! 
+
+cuddle is a missing anagram of UCD if 3 letters are removed
+duck is a missing anagram of UCD if 1 letters are removed
+Old Immortal dovers is a missing anagram of I am Lord Voldemort if 1 letters are removed
+Old Immortal dovers is a missing anagram of Tom Marvolo Riddle if 1 letters are removed
