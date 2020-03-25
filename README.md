@@ -1,2 +1,8 @@
-# Anagram_Solver
-Sorts through a list of strings from a file, finds which strings are anagram/missing anagrams and outputs them to an output file
+# Anagram Solver
+
+Anagram Solving program built in C
+
+You place you text into the input.txt file, run the program and you get an output.txt file with the text sorted alphabetically and then the anagrams present in your file, along with the missing anagrams present in your file!
+
+# Example
+
